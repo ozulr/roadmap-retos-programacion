@@ -1,4 +1,4 @@
-public class waos()
+public class tucutucu
 {
 //https://dotnet.microsoft.com/es-es/languages/csharp
 
