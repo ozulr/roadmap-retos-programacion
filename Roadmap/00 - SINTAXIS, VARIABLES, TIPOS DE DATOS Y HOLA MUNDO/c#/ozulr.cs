@@ -1,3 +1,5 @@
+public class waos()
+{
 //https://dotnet.microsoft.com/es-es/languages/csharp
 
 //comenrario
@@ -16,9 +18,7 @@ float porcentaje = 2,52f
 double doble =1,5
 char caracter= "a"
 
-  void imprimir()
-{
-Console.WriteLine("hola, C#")
-  }
 
-imprimir()
+Console.WriteLine("hola, C#")
+
+  }
