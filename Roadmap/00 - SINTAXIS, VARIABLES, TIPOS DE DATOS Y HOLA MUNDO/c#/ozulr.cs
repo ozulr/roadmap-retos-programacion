@@ -12,6 +12,8 @@ private const int iva= 15
 int numerica= 9
 string palabra = "fua"
 bool siOno = true
-float porcentaje = 2,5f
-
-
+float porcentaje = 2,52f
+double doble =1,5
+char caracter= "a"
+  
+console.Writeline("hola, C#")
