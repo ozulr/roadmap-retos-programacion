@@ -2,4 +2,10 @@
 
 //comenrario
 
-//
+/*si
+comentario 
+si*/
+
+int variableNumerica= 5
+  
+
