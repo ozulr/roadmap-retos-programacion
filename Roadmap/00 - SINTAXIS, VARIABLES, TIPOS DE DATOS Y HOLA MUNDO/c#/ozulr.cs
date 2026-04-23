@@ -15,5 +15,10 @@ bool siOno = true
 float porcentaje = 2,52f
 double doble =1,5
 char caracter= "a"
-  
-console.Writeline("hola, C#")
+
+  void imprimir()
+{
+Console.WriteLine("hola, C#")
+  }
+
+imprimir()
